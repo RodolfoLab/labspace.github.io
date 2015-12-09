@@ -1,0 +1,15 @@
+name: Labspace
+description: Blog criado para divulgar diversos estudos no universo da tecnologia
+meta_description: "Labspace, Blog criado para divulgar diversos estudos no universo da tecnologia, informatica"
+
+markdown: redcarpet
+highlighter: pygments
+logo: false
+paginate: 15
+baseurl: /
+domain_name: 'rodolfolab.github.io'
+google_analytics: 'UA-XXXXXXXX-X'
+
+# Details for the RSS feed generator
+url:            'rodolfolab.github.io'
+author:         'Rodolfo S. Vidal'
