@@ -3,7 +3,10 @@ layout: post
 title:  "Hello Word - Jornada para o infinito"
 date:   2015-12-08 22:00:00
 categories: Hello Word 
+tags: [intro, beginner, jekyll, tutorial]
+img: "/assets/images/hello.jpg"
 ---
+
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
 To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.

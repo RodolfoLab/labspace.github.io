@@ -428,7 +428,7 @@ margin on the iframe, cause it breaks stuff. */
     margin: 0;
 }
 
-#site-head {
+.post-bg {
     position: relative;
     display: table;
     width: 100%;
@@ -648,7 +648,7 @@ margin on the iframe, cause it breaks stuff. */
 }
 
 .main-nav.overlay a {
-    color: #fff;
+    color: #ffffff;
 }
 
 .main-nav.overlay .back-button,
@@ -677,7 +677,7 @@ margin on the iframe, cause it breaks stuff. */
     letter-spacing: -1px;
     font-weight: 700;
     font-family: "Open Sans", sans-serif;
-    color: #fff;
+    color: #ffffff;
 }
 
 .page-description {
@@ -685,23 +685,23 @@ margin on the iframe, cause it breaks stuff. */
     font-size: 2rem;
     line-height: 1.5em;
     font-weight: 400;
-    font-family: "Merriweather", serif;
+    font-family: "Open Sans", sans-serif;
     letter-spacing: 0.01rem;
     color: rgba(255,255,255,0.8);
 }
 
 .no-cover.main-header {
     min-height: 160px;
-    max-height: 40%;
-    background: #f5f8fa;
+    max-height: 65%;
+    background-image: url(/assets/images/logo_bg.jpg);
 }
 
 .no-cover .page-title {
-    color: rgba(0,0,0,0.8);
+    color: rgba(0,191,255);
 }
 
 .no-cover .page-description {
-    color: rgba(0,0,0,0.5);
+    color: rgba(0,191,255);
 }
 
 .no-cover .main-nav.overlay .back-button,
@@ -863,6 +863,12 @@ body:not(.post-template) .post-title {
 
 .post-template .post-title {
     margin-bottom: 0;
+    margin: 10px 0 10px 0;
+    font-size: 5rem;
+    letter-spacing: -1px;
+    font-weight: 700;
+    font-family: "Open Sans", sans-serif;
+    color: #ffffff;
 }
 
 .post-template .post-meta {
@@ -1066,7 +1072,7 @@ body:not(.post-template) .post-title {
    ========================================================================== */
 
 .post-head.main-header {
-    height: 65%;
+    height: 45%;
     min-height: 180px;
 }
 
