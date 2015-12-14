@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "Hello Word - Uma Jornada para o infinito"
+date:   2015-12-14 15:30:00
+categories: Hello Word intro 
+tags: [intro, beginner, jekyll, tutorial]
+img: "/assets/images/hello.jpg"
+---
+
 Ola, antes de começar com este hello word que descreve o motivo pelo qual eu criei este blog, é melhor eu me apresentar:
 
 Me chamo Rodolfo S. Vidal, tenho 23 anos e estou começando no universo do desenvolvimento, principalmente no front-end no qual estou dedicando as minhas horas de estudos ultimamente, sou graduado em Redes de Computadores além de formação técnica em Design Gráfico.

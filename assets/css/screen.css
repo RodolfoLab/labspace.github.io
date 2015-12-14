@@ -487,7 +487,7 @@ margin on the iframe, cause it breaks stuff. */
     height: 100%;
     margin-bottom: 5rem;
     text-align: center;
-    background: #222 no-repeat center center;
+    background: #542 no-repeat center center;
     background-size: cover;
     overflow: hidden;
 }
@@ -585,13 +585,14 @@ margin on the iframe, cause it breaks stuff. */
     display: inline-block;
     float: left;
     height: 38px;
-    padding: 0 15px 0 10px;
+    padding: 0 20px;
     border: transparent 1px solid;
     color: #9EABB3;
     text-align: center;
     font-size: 12px;
     text-transform: uppercase;
     line-height: 35px;
+    white-space: nowrap;
     border-radius: 3px;
     background: rgba(0,0,0,0.1);
     transition: all ease 0.3s;

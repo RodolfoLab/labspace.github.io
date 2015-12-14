@@ -1,38 +1,9 @@
-# Kasper
+Ola, antes de começar com este hello word que descreve o motivo pelo qual eu criei este blog, é melhor eu me apresentar:
 
-This is a port of Ghost's default theme [Casper](https://github.com/tryghost/casper) for Jekyll. 
-Feel free to fork, change, modify and re-use it.
+Me chamo Rodolfo S. Vidal, tenho 23 anos e estou começando no universo do desenvolvimento, principalmente no front-end no qual estou dedicando as minhas horas de estudos ultimamente, sou graduado em Redes de Computadores além de formação técnica em Design Gráfico.
 
-## How to use it
+Mas porque criar um blog agora? Bem este é meio que um projeto paralelo ao labcriativo (projeto que possuo há vários anos), projeto este que me deu vontade de criar após eu começar a fazer o curso [Be-MEAN da Webschool][Be-MEAN da Webschool](que por sinal é muito fod* vale a pena conferir) e constatei que como eu varias pessoas também tinha interesse e dificuldades em desenvolver, então me veio a ideia de criar um meio para compartilhar os meus experimentos neste universo infinito.
 
-Simply clone this repository, and then run `jekyll serve` inside the directory.
+Espero você nesta incrível jornada ao infinito, através das suas dúvidas e do seu feedback.
 
-Kasper theme includes:
-
-* Pagination
-* Rss
-* Google Analytics Tracking code
-* Code Syntax Highlight
-* Author's profile with picture
-* Disqus comments
-
-## Screenshots
-
-![index page](https://raw.github.com/rosario/kasper/master/assets/images/kasper-theme-index.png)
-![post page](https://raw.github.com/rosario/kasper/master/assets/images/kasper-theme-post.png)
-
-
-## Thanks 
-Most of the work has been already done by the Ghost team, I've just ported Casper to Jekyll. 
-I've also added few things specific to Jekyll and some minor style changes.
-
-## Copyright & License
-
-Copyright (C) 2013 Ghost Foundation - Released under the MIT License.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+[Be-MEAN da Webschool]: https://github.com/Webschool-io/be-mean-instagram
