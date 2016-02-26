@@ -1508,13 +1508,13 @@ body:not(.post-template) .post-title {
         height: 44px;
         line-height: 41px;
         border-radius: 0;
-        color: #2e2e2e;
+        color: #ff7761;
         background: transparent;
     }
     .back-button:hover,
     .subscribe-button:hover {
         border-color: #ebeef0;
-        color: #2e2e2e;
+        color: #ff7761;
         background: #ebeef0;
     }
 
