@@ -3,7 +3,7 @@ description: Blog criado para divulgar diversos estudos no universo da tecnologi
 meta_description: "Labspace, Blog criado para divulgar diversos estudos no universo da tecnologia, informatica"
 
 markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /
